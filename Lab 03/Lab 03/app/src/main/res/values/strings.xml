@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAB03_EXAMPLE</string>
+
+    <string name= "Title"> Register </string>
+    <string name= "edtName"> User Name </string>
+    <string name= "edtEmail"> Email </string>
+    <string name= "edtPhone"> Phone Number </string>
+    <string name= "edtPassword"> Password </string>
+    <string name= "edtRePassword"> Re Password </string>
+
+
+    <string name= "btnSubmit"> Submit </string>
+    <string name= "btnCancel"> Cancel </string>
+
+</resources>
