@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="titleHome"> Home Fragment </string>
+    <string name="titleUser"> User Fragment </string>
+
+    <string name="etName"> Enter Name </string>
+
+    <string name="btnDisplay"> Display </string>
+
+
+</resources>
