@@ -12,8 +12,14 @@ Labsheet 04 - Version Controlling
 
 Labsheet 05 - Fragments
 
+Labsheet 06 - Pending
+
+Labsheet 07 - Pending
+
+Labsheet 08 - Android Broadcast Receivers
+
 Toast Message - Self Tested Exercise
 
-@implemented by
+implemented by
 K L S Kalpajith (IT21355196)
 
