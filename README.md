@@ -22,9 +22,10 @@ Toast Message - Self Tested Exercise
 
 NotificationExample - Self Tested Exercise
 
-More---
+More--- <br/>
 Labsheet 06:-
-Android fundamentals 05.1: Drawables, styles, and themes
+Android fundamentals 05.1: Drawables, styles, and themes <br/>
+Reference Link :- https://developer.android.com/codelabs/android-training-drawables-styles-and-themes
 
 implemented by
 K L S Kalpajith (IT21355196)
