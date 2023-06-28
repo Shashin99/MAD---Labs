@@ -12,7 +12,7 @@ Labsheet 04 - Version Controlling
 
 Labsheet 05 - Fragments
 
-Labsheet 06 - Pending
+Labsheet 06 - Android fundamentals (Self-Studies)
 
 Labsheet 07 - Pending
 
@@ -21,6 +21,10 @@ Labsheet 08 - Android Broadcast Receivers
 Toast Message - Self Tested Exercise
 
 NotificationExample - Self Tested Exercise
+
+More---
+Labsheet 06:-
+Android fundamentals 05.1: Drawables, styles, and themes
 
 implemented by
 K L S Kalpajith (IT21355196)
